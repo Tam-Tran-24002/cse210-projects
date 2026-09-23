@@ -1,12 +1,9 @@
 using System;
-
-class Program
-{
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Bonjour tout le monde!");
-        Console.WriteLine("Hey Tam,");
-        Console.WriteLine("Hey Jay");
-
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("This is in C#.");
+        }
     }
-}
