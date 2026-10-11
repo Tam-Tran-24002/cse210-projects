@@ -1,3 +1,8 @@
+// Exceeding requirements:
+// - Menu input is validated with try/catch so typing letters doesn't crash the program
+// - Loading a file that doesn't exist shows a friendly message instead of crashing
+// Help received: debugging help from Google
+
 using System;
 using System.IO;
 
